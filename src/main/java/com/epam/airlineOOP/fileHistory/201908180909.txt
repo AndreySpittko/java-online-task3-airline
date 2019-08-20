@@ -1,0 +1,7 @@
+[AIRBUS_A300_600F: cruising Speed = 844(km/h), volume of cargo = 116(m3), weight of cargo = 48 000(kg), max flight range = 7 400(km), price = 105 000 000($)
+, AIRBUS_BELUGA: cruising Speed = 850(km/h), volume of cargo = 1 210(m3), weight of cargo = 47 000(kg), max flight range = 4 632(km), price = 183 000 000($)
+, AIRBUS_A330_200F: cruising Speed = 871(km/h), volume of cargo = 475(m3), weight of cargo = 70 000(kg), max flight range = 7 400(km), price = 203 600 000($)
+, AIRBUS_A330_200F: cruising Speed = 871(km/h), volume of cargo = 475(m3), weight of cargo = 70 000(kg), max flight range = 7 400(km), price = 203 600 000($)
+, AIRBUS_A330_200F: cruising Speed = 871(km/h), volume of cargo = 475(m3), weight of cargo = 70 000(kg), max flight range = 7 400(km), price = 203 600 000($)
+, BOEING_747_8F: cruising Speed = 908(km/h), volume of cargo = 855(m3), weight of cargo = 134 200(kg), max flight range = 8 288(km), price = 319 500 000($)
+]
